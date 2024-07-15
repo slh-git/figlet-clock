@@ -2,4 +2,5 @@
 Simple CLI clock program in C presented using [Figlet](http://www.figlet.org/)
 
 # Example
-![image](https://github.com/user-attachments/assets/7913d140-306a-4178-a7ec-5a679dc38390)
+![image](![image](https://github.com/user-attachments/assets/2c0b07f1-6c1b-4bc3-b9e2-7428f4ef2027)
+)
