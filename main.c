@@ -33,7 +33,7 @@ void sigint_handler(int sig)
 
 int main(int argc, char* argv[])
 {
-	char fig_font[] = "Banner";
+	char fig_font[] = "Banner3-D";
 	time_t current_time;
 	FILE* fp;
 	char cmd_buffer[1024];
